@@ -1,0 +1,4 @@
+FROM fedora:32
+RUN ls
+CMD ["echo", "it works"]
+WORKDIR /var
