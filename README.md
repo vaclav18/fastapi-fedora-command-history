@@ -1,6 +1,6 @@
 # Docker Python FastAPI Fedora32 
 
-A web service using FastAPI, pzdantic and aiofiles.
+A web service using FastAPI, pydantic and aiofiles.
 
 It will parse dnf history to a JSON
 
